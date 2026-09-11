@@ -1,0 +1,17 @@
+FLUXO DE TRABALHO - GITHUB
+
+1. Criar um repositório novo no GitHub.
+2. Descompactar este ZIP.
+3. Enviar TODO o conteúdo da pasta para a raiz do repositório.
+4. Abrir a aba Actions.
+5. Abrir o fluxo "Compilar APK - Nota Facil Grupo 20".
+6. Rodar "Run workflow" ou fazer um novo push.
+7. Quando ficar verde, abrir a execução.
+8. Em Artifacts, baixar "NOTA-FACIL-GRUPO20-APK".
+9. Dentro do ZIP do artefato estará o app-debug.apk.
+
+IMPORTANTE:
+O motor usado no aplicativo é o V2 escolhido pelo usuário, não a V3 recente.
+Tema: roxo.
+Trevo: amarelo.
+Rótulo: Nota Fácil - Grupo 20.
